@@ -7,3 +7,4 @@ Using ACO (and any other suitable method <<A* used in this situation>>), write a
 After computing the minimum distances between sensors and the paths, the problem reduces to a Travelling Salesman Problem in a complete graph.
 
 
+The graphical user interface is implemented using the pygame module.
